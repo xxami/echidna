@@ -1,4 +1,3 @@
-
 import discord
 
 class EchidnaBot(discord.Client):

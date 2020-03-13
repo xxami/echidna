@@ -1,7 +1,7 @@
 ## echidna.py
 quick reference for python gaijins setting up a discord.py bot using tools that make sense in 2020
 
-## step 0 - install python 3
+## step 0: install python 3
 python 2 is over, let's make sure we're running with python 3 (https://www.python.org/downloads/)
 
 ```sh
@@ -61,4 +61,4 @@ musn't forget the part where we add discord.py to the project:
 $ poetry add discord.py
 ```
 
-see [here](echidnabot/main.py) for a good starting point :)!
+see [here](echidnabot/echidnabot/main.py) for a good starting point :)!
